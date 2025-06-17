@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\bin\Debug\net8.0\TDE_18_06.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\bin\Debug\net8.0\TDE_18_06.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\bin\Debug\net8.0\TDE_18_06.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\bin\Debug\net8.0\TDE_18_06.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\bin\Debug\net8.0\TDE_18_06.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\refint\TDE_18_06.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\TDE_18_06.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_18_06\TDE_18_06\obj\Debug\net8.0\ref\TDE_18_06.dll
